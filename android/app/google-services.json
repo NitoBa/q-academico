@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "134046119933",
+    "firebase_url": "https://q-academico.firebaseio.com",
+    "project_id": "q-academico",
+    "storage_bucket": "q-academico.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134046119933:android:6a6f3d730d2081f1290b94",
+        "android_client_info": {
+          "package_name": "com.nitoba.qacademico.q_academico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134046119933-ur929h3e38vhm5ffu0g33cal8lkfq59f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nitoba.qacademico.q_academico",
+            "certificate_hash": "62bfd66518bb02b4d511526722fb401cb1a5b971"
+          }
+        },
+        {
+          "client_id": "134046119933-b165lnqkckb3kdk2qcmlvpi0jimeooon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcIx7SwF1vQ1bI6MJNwkEn544C-L7DO4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134046119933-b165lnqkckb3kdk2qcmlvpi0jimeooon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
